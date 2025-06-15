@@ -1,6 +1,6 @@
 # Sürdürülebilir Yaşam Takip Sistemi
 
-![Proje Ekran Görüntüsü](![Ekran görüntüsü 2025-06-15 152742](https://github.com/user-attachments/assets/0f6e8bdd-932e-4c3b-a3d6-e29c2abd1985)
+![Ekran görüntüsü 2025-06-15 152742](https://github.com/user-attachments/assets/0f6e8bdd-932e-4c3b-a3d6-e29c2abd1985)
 ![Ekran görüntüsü 2025-06-15 152727](https://github.com/user-attachments/assets/744f59ae-0e3f-4b49-aa3d-be8803e3a47b)
 ![Ekran görüntüsü 2025-06-15 152652](https://github.com/user-attachments/assets/240a6d91-ffaf-4292-b731-d3e986091437)
 ![Ekran görüntüsü 2025-06-15 152531](https://github.com/user-attachments/assets/e9d3bf2d-8fe5-415c-a164-68d3ad448997)
@@ -34,6 +34,6 @@ list_activities.php	Kayıtlı aktiviteler
 chart.php	İstatistik görüntüleme
 
 ## Canlı Demo
-   [https://orneksite.com/surdurulebilir-yasam](https://orneksite.com/surdurulebilir-yasam)
+   [https://youtu.be/pZEIFRpni50)
 
 
